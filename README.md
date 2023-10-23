@@ -65,3 +65,15 @@ la modification d'une salle:
 
 ![bienmodifieSS](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/f31625d9-01d7-47d9-94cb-df10682c4b8b)
 
+
+**BASE DE DONNES:
+
+
+![basetout](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/1360444d-48ee-4390-8133-4eb20aa4af8f)
+
+*Table Salle:
+
+![DBSalle](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/ea5f927b-6f68-4dd8-8c98-ec069b6e7b12)
+
+
+*Table machine:
