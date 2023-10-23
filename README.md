@@ -12,7 +12,7 @@ TP Réalise a l'aide de RMI:
 
 *Ajouté une machine:
 
-![Bien_Ajouter](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/86755095-6b33-4a90-a51c-721a8a7f9eb3)
+![ba](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/b74a3748-0a2f-4583-b888-fd4b45658315)
 
 
 *Modifié une machine:
@@ -20,20 +20,20 @@ TP Réalise a l'aide de RMI:
 
 Alerte de moification:
 
-![Bienmodifié](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/0b92b1e0-e491-428d-84a9-541d94021c35)
+![AM](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/7d69798c-3a9d-4e9d-8a7d-9108391ecf0b)
 
 la modification d'une machine:
 
-![Alerte_modification](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/5260ca92-b01b-4b23-9609-98926d4f0c11)
+![MF](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/599a1793-2250-4f49-a97d-db5509ce335e)
 
 *Supprimé une machine:
 
 Alert de suppression:
 
-![Alerte_suppression](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/76261354-7e90-4739-8bf3-61b93c0a0090)
+![ASUPP](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/da053b12-e283-4f01-9aa2-73a21b893e31)
 
 la suppression d'une machine:
-![biensupp](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/1b9b41a3-38ad-4d0d-a7c2-5b527c7e3b7d)
+![Supp](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/c1dd8205-fad5-4ce3-98a6-090c7881624a)
 
 **Interface gestion des salles**:
 
