@@ -28,7 +28,7 @@ la modification d'une machine:
 
 *Supprimé une machine:
 
-Alert de suppression:
+Alerte de suppression:
 
 ![ASUPP](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/da053b12-e283-4f01-9aa2-73a21b893e31)
 
