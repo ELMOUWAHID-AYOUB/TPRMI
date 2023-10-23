@@ -63,5 +63,5 @@ Alerte de moification:
 
 la modification d'une salle:
 
-![Bienmodifié](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/0b92b1e0-e491-428d-84a9-541d94021c35)
+![bienmodifieSS](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/9626ac43-dae3-4eba-a4bb-343c8ad173f0)
 
