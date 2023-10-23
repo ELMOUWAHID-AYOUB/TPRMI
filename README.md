@@ -55,8 +55,12 @@ la supression d'une salle:
 
 
 Alerte de moification:
+
+
 ![Bienmodifié](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/0b92b1e0-e491-428d-84a9-541d94021c35)
 
+
 la modification d'une salle:
+
 
 ![ALERTmodifSSS](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/145a84c3-3e5c-4ab8-a043-8343fbf65c48)
