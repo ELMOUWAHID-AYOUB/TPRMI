@@ -72,6 +72,10 @@ RMI est une forme de communication inter-processus en réseau où les méthodes 
 
 
 
+###  Fonctionnalités du projet :
+
+Opérations CRUD (Create, Update, Delete) pour les machines.
+Opérations CRUD (Create, Update, Delete) pour les salles.
 
 ###  Technologies Utilisées
 
