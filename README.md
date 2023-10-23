@@ -170,7 +170,6 @@ COMMIT;
 
 
 
-
--- CONCLUSION:
+**CONCLUSION:**
 
  ce projet de gestion de salles et d'équipements, développé en utilisant Hibernate, RMI et Java Swing, vise à faciliter la procédure de réservation des ressources. Son interface conviviale, la gestion persistante des données via Hibernate, ainsi que la communication fluide permise par RMI, en font une solution précieuse pour améliorer l'efficacité des opérations.
