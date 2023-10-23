@@ -75,7 +75,13 @@ RMI est une forme de communication inter-processus en réseau où les méthodes 
 ###  Fonctionnalités du projet :
 
 Opérations CRUD (Create, Update, Delete) pour les machines.
+
+L'utilisateur dispose de plusieurs fonctionnalités pour gérer les machines dans le système. Tout d'abord, il peut ajouter une nouvelle machine en spécifiant des détails tels que la référence, la marque, le prix et la salle d'installation. Ensuite, l'utilisateur a la possibilité de modifier les informations de n'importe quelle machine déjà enregistrée, lui permettant ainsi de mettre à jour des champs tels que la référence, la marque, le prix et la salle. Enfin, l'utilisateur peut supprimer définitivement une machine spécifique, ce qui entraînera la suppression complète et permanente de toutes les données associées à cette machine dans le système
+
+
 Opérations CRUD (Create, Update, Delete) pour les salles.
+
+Dans le cadre de la gestion des salles, l'utilisateur dispose également de fonctionnalités essentielles. Il peut tout d'abord ajouter de nouvelles salles en fournissant des détails tels que le nom de la salle. De plus, il a la flexibilité de modifier les détails des salles existantes, ce qui lui permet de mettre à jour des éléments tels que le nom. Enfin, l'utilisateur a la possibilité de supprimer des salles spécifiques .
 
 ###  Technologies Utilisées
 
