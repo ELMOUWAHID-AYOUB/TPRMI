@@ -187,13 +187,14 @@ utiliser la commande suivante si Git est installé : git clone <lien-du-projet>.
 Sinon, vous pouvez télécharger l'archive du projet et extraire son contenu sur votre ordinateur.
 Ouvrez le projet  dans votre environnement de développement.
 
-Etape2: ServerRMI
+Etape2:
 
 Ouvrez le projet ServerRMI dans votre environnement de développement.
 Exécutez la classe Server pour lancer le serveur RMI. Assurez-vous que le serveur s'exécute sur le bon port.
 Exécuter l'application Swing en utilisant la classe principale du projet ClientRMI .
 
 Etape3:
+
 Exécutez la classe principale pour lancer l'application Swing. Assurez-vous que l'application est configurée pour se connecter au serveur RMI sur le bon port.
 Utiliser l'interface graphique pour effectuer des opérations CRUD sur les machines et les salles .
 
