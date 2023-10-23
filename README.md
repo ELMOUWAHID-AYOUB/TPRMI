@@ -6,16 +6,15 @@ RMI en Java signifie "Remote Method Invocation" (Invocation de méthode à dista
 
 RMI est une forme de communication inter-processus en réseau où les méthodes d'un objet Java peuvent être appelées depuis un autre objet sur une machine virtuelle Java, comme si cet objet était sur la même machine. Cela permet aux développeurs de créer des applications distribuées en Java relativement facilement, en masquant une grande partie de la complexité sous-jacente de la communication en réseau.
 
-TP Réalise a l'aide de RMI:
 
-### **Interface gestion des machines**:
+### Interface gestion des machines**:
 
-###*Ajouté une machine:
+### Ajouté une machine:
 
 ![ba](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/b74a3748-0a2f-4583-b888-fd4b45658315)
 
 
-### *Modifié une machine:
+### Modifié une machine:
 
 
 ### Alerte de moification:
@@ -26,7 +25,7 @@ TP Réalise a l'aide de RMI:
 
 ![Capture d’écran 2023-10-23 202336](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/658e826a-727f-4947-b54b-263e8061a52b)
 
-### *Supprimé une machine:
+### Supprimé une machine:
 
 ### Alerte de suppression:
 
@@ -35,13 +34,13 @@ TP Réalise a l'aide de RMI:
 ### la suppression d'une machine:
 ![Supp](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/c1dd8205-fad5-4ce3-98a6-090c7881624a)
 
-### **Interface gestion des salles**:
+### Interface gestion des salles**:
 
-### *Ajouté une salle:
+### Ajouté une salle:
 
 ![BienAjouter](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/4e15825e-9fd5-4161-a946-4111f41d2288)
 
-### *Supprimé une salle:
+###  Supprimé une salle:
 
 ### Alerte de suppression:
 
@@ -51,7 +50,7 @@ TP Réalise a l'aide de RMI:
 
 ![biensuppsssss](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/79880817-9826-4d6c-8c15-851b7c5ab46d)
 
-### *Modifié une salle:
+###  Modifié une salle:
 
 
 ### Alerte de moification:
@@ -66,7 +65,7 @@ TP Réalise a l'aide de RMI:
 ![bienmodifieSS](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/f31625d9-01d7-47d9-94cb-df10682c4b8b)
 
 
-### **BASE DE DONNES:
+###  BASE DE DONNES:
 
 
 ![basetout](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/1360444d-48ee-4390-8133-4eb20aa4af8f)
@@ -167,7 +166,7 @@ COMMIT;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 
 
-### **Technologies Utilisées**
+###  Technologies Utilisées**
 
 Java: Java est un langage de programmation polyvalent et orienté objet largement utilisé pour développer diverses applications allant des applications de bureau aux applications Web en passant par les applications mobiles. Il est apprécié pour sa portabilité, sa robustesse, sa sécurité et sa facilité d'utilisation.
 
