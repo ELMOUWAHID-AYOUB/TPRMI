@@ -178,6 +178,30 @@ Hibernate : Hibernate est un framework de mapping objet-relationnel (ORM) en Jav
 RMI :  RMI est un mécanisme en Java qui permet à un objet d'appeler des méthodes sur un objet distant. Il facilite la communication entre les applications Java s'exécutant sur différentes machines virtuelles Java (JVM) en permettant l'invocation de méthodes sur des objets distants comme s'ils étaient des objets locaux. Cela simplifie la mise en œuvre de l'interaction client-serveur dans les applications distribuées.
 
 
+
+###  comment exécuter le projet 
+
+Etape1:
+
+utiliser la commande suivante si Git est installé : git clone <lien-du-projet>.
+Sinon, vous pouvez télécharger l'archive du projet et extraire son contenu sur votre ordinateur.
+Ouvrez le projet  dans votre environnement de développement.
+
+Etape2: ServerRMI
+
+Ouvrez le projet ServerRMI dans votre environnement de développement.
+Exécutez la classe Server pour lancer le serveur RMI. Assurez-vous que le serveur s'exécute sur le bon port.
+Exécuter l'application Swing en utilisant la classe principale du projet ClientRMI .
+
+Etape3:
+Exécutez la classe principale pour lancer l'application Swing. Assurez-vous que l'application est configurée pour se connecter au serveur RMI sur le bon port.
+Utiliser l'interface graphique pour effectuer des opérations CRUD sur les machines et les salles .
+
+Etape4
+
+Une fois que l'application Swing est lancée, vous devriez voir une interface conviviale avec des fonctionnalités pour ajouter, mettre à jour, afficher et supprimer des machines et des salles.
+Utilisez les fonctionnalités appropriées pour gérer les machines et les salles en fonction de vos besoins.
+
 ### **CONCLUSION:**
 
  ce projet de gestion de salles et d'équipements, développé en utilisant Hibernate, RMI et Java Swing, vise à faciliter la procédure de réservation des ressources. Son interface conviviale, la gestion persistante des données via Hibernate, ainsi que la communication fluide permise par RMI, en font une solution précieuse pour améliorer l'efficacité des opérations.
