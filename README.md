@@ -24,7 +24,7 @@ Alerte de moification:
 
 la modification d'une machine:
 
-![MF](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/599a1793-2250-4f49-a97d-db5509ce335e)
+![Capture d’écran 2023-10-23 202336](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/658e826a-727f-4947-b54b-263e8061a52b)
 
 *Supprimé une machine:
 
