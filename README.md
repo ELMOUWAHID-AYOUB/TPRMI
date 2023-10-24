@@ -66,7 +66,7 @@ RMI est une forme de communication inter-processus en réseau où les méthodes 
 
 ### III Interface Recherche par Salle:
 
-###Salle 1:
+###Salle 2:
 
 ![Afficheparsalle](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/863d229d-1dd6-4725-8245-e6f4e97b13c4)
 
@@ -93,6 +93,11 @@ Opérations CRUD (Create, Update, Delete) pour les machines.
 Opérations CRUD (Create, Update, Delete) pour les salles.
 
    Dans le cadre de la gestion des salles, l'utilisateur dispose également de fonctionnalités essentielles. Il peut tout d'abord ajouter de nouvelles salles en fournissant des détails tels que le nom de la salle. De plus, il a la flexibilité de modifier les détails des salles existantes, ce qui lui permet de mettre à jour des éléments tels que le nom. Enfin, l'utilisateur a la possibilité de supprimer des salles spécifiques .
+   
+Recherche par salle:
+
+   Pour faciliter la recherche par salle, cette interface  offre une fonctionnalité permettant à l'utilisateur de sélectionner une salle spécifique et d'obtenir la liste complète des machines associées à cette salle. 
+   
 
 ###  Technologies Utilisées
 
