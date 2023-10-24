@@ -64,6 +64,17 @@ RMI est une forme de communication inter-processus en réseau où les méthodes 
 
 ![bienmodifieSS](https://github.com/ELMOUWAHID-AYOUB/HibernateTP/assets/130571009/f31625d9-01d7-47d9-94cb-df10682c4b8b)
 
+### III Interface Recherche par Salle:
+
+###Salle 1:
+
+![Afficheparsalle](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/863d229d-1dd6-4725-8245-e6f4e97b13c4)
+
+
+
+###Salle 4:
+
+![AFFICHE](https://github.com/ELMOUWAHID-AYOUB/JDBC/assets/130571009/8a6cf7b7-c451-413b-96dc-252298610181)
 
 ###  BASE DE DONNES:
 
